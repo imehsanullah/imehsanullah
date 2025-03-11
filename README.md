@@ -10,10 +10,7 @@
 <h3 align="center">A passionate Software Engineer with interest in Backend Development and Machine Learning <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" alt="Image" width="50" ></h3>
 
 
-
 <h2> Contact Me 💬 </h2>
-
-
 
 <p align="center">
   <br/>
@@ -26,20 +23,3 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imehsanullah&show_icons=true&locale=en&layout=compact" alt="imehsanullah" /></p>
-
-
-
-**imehsanullah/imehsanullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
