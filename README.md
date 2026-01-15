@@ -7,7 +7,7 @@
 </h1>
 
 
-<h3 align="center">A passionate Software Engineer with interest in Backend Development and Machine Learning <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" alt="Image" width="50" ></h3>
+<h3 align="center">Software Engineer with interest in Backend Development and Machine Learning <img align="center" src="https://i.imgur.com/MvMxQ1a.gif" alt="Image" width="50" ></h3>
 
 
 <h2> Contact Me 💬 </h2>
