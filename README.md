@@ -24,7 +24,9 @@
 <a href="https://gitlab.com/iamehsanullah" target="blank"><img align="center"
      src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"
      alt="iamehsanullah" height="30"/></a>
-
+<a href="https://huggingface.co/iamehsanullah" target="blank"><img align="center"
+   src="https://img.shields.io/badge/huggingface-404040.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E"
+   alt="iamehsanullah" height="30"/></a>
 
 
 </p>
