@@ -31,7 +31,11 @@
 <a href="https://huggingface.co/iamehsanullah" target="blank"><img align="center"
    src="https://img.shields.io/badge/huggingface-404040.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E"
    alt="iamehsanullah" height="30"/></a>
+<a href="https://scholar.google.com/citations?user=_PYKV6AAAAAJ" target="_blank" rel="noopener noreferrer"><img align="center"
+   src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white"
+   alt="Google Scholar" height="30"/></a>
 
 
 </p>
+
 
